@@ -1,0 +1,2 @@
+a="bonjour"
+print(a)

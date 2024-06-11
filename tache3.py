@@ -1,0 +1,2 @@
+a="goodmorning"
+print(a)

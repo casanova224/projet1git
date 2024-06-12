@@ -1,2 +1,0 @@
-a="goodmorning"
-print(a)
